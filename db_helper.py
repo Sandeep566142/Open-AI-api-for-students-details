@@ -1,4 +1,4 @@
-# Author: Dhaval Patel. Codebasics Inc.
+
 
 import mysql.connector
 
